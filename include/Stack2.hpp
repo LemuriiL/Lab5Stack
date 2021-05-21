@@ -1,3 +1,4 @@
+// Copyright 2021 LemuriiL <nice.duble@mail.ru>
 #ifndef INCLUDE_SSTACK_HPP_
 #define INCLUDE_SSTACK_HPP_
 
